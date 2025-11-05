@@ -34,5 +34,6 @@ Este proyecto analiza los factores que influyen en el éxito comercial de los vi
    ```bash
     pip install pandas numpy matplotlib seaborn scipy
 - 
-4.- Coloca el archivo games.csv dentro de la carpeta /datasets/.
+4.- Coloca el archivo games.csv dentro de la carpeta /dataset/.
+
 
