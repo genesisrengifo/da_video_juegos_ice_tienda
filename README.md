@@ -1,4 +1,4 @@
-🎮 **Análisis de Ventas de Videojuegos para ICE** – TripleTen Bootcamp | 2025
+**Análisis de Ventas de Videojuegos para ICE** – TripleTen Bootcamp | 2025
 
 Descripción: El objetivo del proyecto fue identificar patrones de consumo y preferencias a través de datos de videojuegos para optimizar las campañas publicitarias del año 2017.
 
