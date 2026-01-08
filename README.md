@@ -1,37 +1,19 @@
-🎮 Análisis de Ventas de Videojuegos para Ice
+🎮 **Análisis de Ventas de Videojuegos para ICE** – TripleTen Bootcamp | 2025
 
-Este proyecto analiza los factores que influyen en el éxito comercial de los videojuegos en la tienda Ice, utilizando datos del 2016 acerca de:  historia de ventas, reseñas, plataformas, géneros y clasificaciones ESRB. Tiene como objetivo identificar patrones que optimicen las ventas en la tienda, así como también  detectar las preferencias de plataformas y géneros en las distintas regiones con la finalidad de optimizar campañas publicitarias efectivas para el año 2017.
+Descripción: El objetivo del proyecto fue identificar patrones de consumo y preferencias a través de datos de videojuegos para optimizar las campañas publicitarias del año 2017.
 
-
-
-### 🧰 Tecnologías usadas
+Tecnologías: 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-blueviolet?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Tests-darkgreen?logo=scipy&logoColor=white)
 
----
-
-## 📊 Metodología
-
-- Preprocesamiento de datos: Manejo de valores ausentes, duplicados, formato de columnas y tipos de datos adecuados.
-- Análisis exploratorio de datos: Identificación de plataformas y géneros con mejor rendimiento, y evaluación de correlaciones entre puntuaciones y ventas.
-- Segmentación regional: Comparación de preferencias de plataformas y géneros en Norteamérica, Europa y Japón.
-- Pruebas de hipótesis: Evaluación de diferencias en las calificaciones promedio entre plataformas y géneros.
+Responsabilidades:
+- Procesar y limpiar datos históricos de ventas y reseñas de videojuegos para realizar un análisis exploratorio que permita identificar tendencias en plataformas, géneros y clasificaciones ESRB.
   
----
-## ▶️ Cómo ejecutarlo?
+- Comprobar a través de pruebas de  hipótesis si las clasificaciones de promedio en cada plataforma, región  y género eran significativas. De esta  manera, orientar y colaborar con estrategias de marketing y ventas.
 
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/usuario/nombre-del-repo.git
--
-2. Abre el archivo video_game_sales_analysis.ipynb en Jupyter Notebook.
-3. Asegúrate de tener instalado Python 3 y las siguientes librerías:
-   ```bash
-    pip install pandas numpy matplotlib seaborn scipy
-- 
-4.- Coloca el archivo games.csv dentro de la carpeta /dataset/.
+Logros:
 
-
+Detecté las plataformas y géneros más populares por región, aportando información para segmentar campañas publicitarias. Así como también, Identifiqué correlaciones entre reseñas y ventas permitiendo ajustar dichas campañas.
