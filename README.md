@@ -2,7 +2,8 @@
 
 Descripción: El objetivo del proyecto fue identificar patrones de consumo y preferencias a través de datos de videojuegos para optimizar las campañas publicitarias del año 2017.
 
-Tecnologías: 
+# Tecnologías: 
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-blueviolet?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=matplotlib&logoColor=black)
